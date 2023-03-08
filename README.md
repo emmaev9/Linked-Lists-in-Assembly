@@ -1,5 +1,5 @@
 # Linked-Lists-in-Assembly
 
-The program is a set of procedures and data structures that represent a linked list. 
+Programul presupune imlementarea listelor inlantuite in limbajul Assembly printr-un set de proceduri si structuri de date.
+Pentru a vedea functionalitatea programului se deschide fisierul main.asm in Notepad++. In fisierul fisier.txt se poate observa input-ul si output-ul programului.
 
-Open main.asm in Notepad++ to see how the program works. You can see the input and the output in fisier.txt.
